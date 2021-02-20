@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DIO_DOT_NET\\DIO_DOT_NET.csproj": {}
+    "C:\\WorkSpace\\Csharp\\DIO_DOT_NET\\DIO_DOT_NET.csproj": {}
   },
   "projects": {
-    "C:\\DIO_DOT_NET\\DIO_DOT_NET.csproj": {
+    "C:\\WorkSpace\\Csharp\\DIO_DOT_NET\\DIO_DOT_NET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DIO_DOT_NET\\DIO_DOT_NET.csproj",
+        "projectUniqueName": "C:\\WorkSpace\\Csharp\\DIO_DOT_NET\\DIO_DOT_NET.csproj",
         "projectName": "DIO_DOT_NET",
-        "projectPath": "C:\\DIO_DOT_NET\\DIO_DOT_NET.csproj",
+        "projectPath": "C:\\WorkSpace\\Csharp\\DIO_DOT_NET\\DIO_DOT_NET.csproj",
         "packagesPath": "C:\\Users\\GABRIELDASILVASANTAN\\.nuget\\packages\\",
-        "outputPath": "C:\\DIO_DOT_NET\\obj\\",
+        "outputPath": "C:\\WorkSpace\\Csharp\\DIO_DOT_NET\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
