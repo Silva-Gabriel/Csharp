@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DIO_DOT_NET/1.0.0": {
+        "runtime": {
+          "DIO_DOT_NET.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DIO_DOT_NET/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
