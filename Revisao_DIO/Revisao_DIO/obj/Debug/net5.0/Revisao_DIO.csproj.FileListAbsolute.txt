@@ -1,0 +1,16 @@
+C:\Csharp\Revisao_DIO\Revisao_DIO\obj\Debug\net5.0\Revisao_DIO.csprojAssemblyReference.cache
+C:\Csharp\Revisao_DIO\Revisao_DIO\obj\Debug\net5.0\Revisao_DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\Revisao_DIO\Revisao_DIO\obj\Debug\net5.0\Revisao_DIO.AssemblyInfoInputs.cache
+C:\Csharp\Revisao_DIO\Revisao_DIO\obj\Debug\net5.0\Revisao_DIO.AssemblyInfo.cs
+C:\Csharp\Revisao_DIO\Revisao_DIO\obj\Debug\net5.0\Revisao_DIO.csproj.CoreCompileInputs.cache
+C:\Csharp\Revisao_DIO\Revisao_DIO\bin\Debug\net5.0\Revisao_DIO.exe
+C:\Csharp\Revisao_DIO\Revisao_DIO\bin\Debug\net5.0\Revisao_DIO.deps.json
+C:\Csharp\Revisao_DIO\Revisao_DIO\bin\Debug\net5.0\Revisao_DIO.runtimeconfig.json
+C:\Csharp\Revisao_DIO\Revisao_DIO\bin\Debug\net5.0\Revisao_DIO.runtimeconfig.dev.json
+C:\Csharp\Revisao_DIO\Revisao_DIO\bin\Debug\net5.0\Revisao_DIO.dll
+C:\Csharp\Revisao_DIO\Revisao_DIO\bin\Debug\net5.0\ref\Revisao_DIO.dll
+C:\Csharp\Revisao_DIO\Revisao_DIO\bin\Debug\net5.0\Revisao_DIO.pdb
+C:\Csharp\Revisao_DIO\Revisao_DIO\obj\Debug\net5.0\Revisao_DIO.dll
+C:\Csharp\Revisao_DIO\Revisao_DIO\obj\Debug\net5.0\ref\Revisao_DIO.dll
+C:\Csharp\Revisao_DIO\Revisao_DIO\obj\Debug\net5.0\Revisao_DIO.pdb
+C:\Csharp\Revisao_DIO\Revisao_DIO\obj\Debug\net5.0\Revisao_DIO.genruntimeconfig.cache
