@@ -1,0 +1,10 @@
+C:\Csharp\Cadastro\Cadastro\obj\Debug\Cadastro.csprojAssemblyReference.cache
+C:\Csharp\Cadastro\Cadastro\bin\Debug\Cadastro.exe.config
+C:\Csharp\Cadastro\Cadastro\bin\Debug\Cadastro.exe
+C:\Csharp\Cadastro\Cadastro\bin\Debug\Cadastro.pdb
+C:\Csharp\Cadastro\Cadastro\obj\Debug\Cadastro.Form1.resources
+C:\Csharp\Cadastro\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+C:\Csharp\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+C:\Csharp\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+C:\Csharp\Cadastro\Cadastro\obj\Debug\Cadastro.exe
+C:\Csharp\Cadastro\Cadastro\obj\Debug\Cadastro.pdb
