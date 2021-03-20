@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace Cadastro
 {
-    static class Program
+    static class CadastroCS
     {
         /// <summary>
         /// Ponto de entrada principal para o aplicativo.
