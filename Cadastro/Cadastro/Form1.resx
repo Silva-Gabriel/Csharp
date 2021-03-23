@@ -125,6 +125,9 @@
   <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
     <value>114, 23</value>
   </data>
+  <data name="&gt;&gt;comboBox2.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
   <data name="&gt;&gt;label6.Name" xml:space="preserve">
     <value>label6</value>
   </data>
@@ -145,6 +148,9 @@
   </data>
   <data name="&gt;&gt;label5.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="ComboBox3.Items1" xml:space="preserve">
+    <value>AL</value>
   </data>
   <data name="comboBox1.Items3" xml:space="preserve">
     <value>League of Legends</value>
@@ -167,9 +173,6 @@
   <data name="comboBox2.Size" type="System.Drawing.Size, System.Drawing">
     <value>133, 21</value>
   </data>
-  <data name="&gt;&gt;textBox1.Parent" xml:space="preserve">
-    <value>panel2</value>
-  </data>
   <data name="label5.TabIndex" type="System.Int32, mscorlib">
     <value>9</value>
   </data>
@@ -182,14 +185,14 @@
   <data name="label6.Text" xml:space="preserve">
     <value>Série favorita:</value>
   </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Jogo preferido:</value>
+  </data>
   <data name="&gt;&gt;label1.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="label9.Location" type="System.Drawing.Point, System.Drawing">
     <value>11, 360</value>
-  </data>
-  <data name="panel1.TabIndex" type="System.Int32, mscorlib">
-    <value>8</value>
   </data>
   <data name="&gt;&gt;radioButton2.Name" xml:space="preserve">
     <value>radioButton2</value>
@@ -221,14 +224,23 @@
   <data name="comboBox2.Items4" xml:space="preserve">
     <value>Raio Negro</value>
   </data>
-  <data name="&gt;&gt;textBox1.Name" xml:space="preserve">
-    <value>textBox1</value>
+  <data name="label6.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Narrow, 14.25pt</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>56, 23</value>
+  </data>
+  <data name="quantidadeCadastros.Location" type="System.Drawing.Point, System.Drawing">
+    <value>135, 363</value>
   </data>
   <data name="&gt;&gt;label7.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
   <data name="label7.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
+  </data>
+  <data name="radioButton2.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
   </data>
   <data name="button1.Size" type="System.Drawing.Size, System.Drawing">
     <value>112, 47</value>
@@ -275,8 +287,14 @@
   <data name="radioButton3.Location" type="System.Drawing.Point, System.Drawing">
     <value>278, 38</value>
   </data>
+  <data name="&gt;&gt;dateTimePicker1.Name" xml:space="preserve">
+    <value>dateTimePicker1</value>
+  </data>
   <data name="textBox2.TabIndex" type="System.Int32, mscorlib">
     <value>10</value>
+  </data>
+  <data name="label4.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
   </data>
   <data name="textBox1.Size" type="System.Drawing.Size, System.Drawing">
     <value>133, 20</value>
@@ -1413,9 +1431,6 @@
         //////////////////////////////////8=
 </value>
   </data>
-  <data name="&gt;&gt;button3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
   <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
     <value>10</value>
   </data>
@@ -1425,23 +1440,20 @@
   <data name="ComboBox3.Items6" xml:space="preserve">
     <value>ES</value>
   </data>
-  <data name="&gt;&gt;button3.Name" xml:space="preserve">
-    <value>button3</value>
+  <data name="&gt;&gt;comboBox1.ZOrder" xml:space="preserve">
+    <value>2</value>
   </data>
-  <data name="&gt;&gt;quantidadeCadastros.ZOrder" xml:space="preserve">
-    <value>0</value>
+  <data name="panel2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>537, 162</value>
   </data>
   <data name="comboBox2.Items6" xml:space="preserve">
     <value>Luke Cage</value>
   </data>
-  <data name="label3.Text" xml:space="preserve">
-    <value>Jogo preferido:</value>
+  <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>81, 244</value>
   </data>
   <data name="label5.Text" xml:space="preserve">
     <value>Sobrenome:</value>
-  </data>
-  <data name="radioButton2.Text" xml:space="preserve">
-    <value>Feminino</value>
   </data>
   <data name="label2.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -1479,6 +1491,9 @@
   <data name="ComboBox3.Location" type="System.Drawing.Point, System.Drawing">
     <value>430, 58</value>
   </data>
+  <data name="label6.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
   <data name="ComboBox3.Items22" xml:space="preserve">
     <value>SC</value>
   </data>
@@ -1494,9 +1509,6 @@
   <data name="ComboBox3.Items26" xml:space="preserve">
     <value>DF</value>
   </data>
-  <data name="comboBox1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>133, 21</value>
-  </data>
   <data name="ComboBox3.Items24" xml:space="preserve">
     <value>SE</value>
   </data>
@@ -1506,8 +1518,8 @@
   <data name="ComboBox3.Items7" xml:space="preserve">
     <value>GO</value>
   </data>
-  <data name="comboBox1.Items9" xml:space="preserve">
-    <value>Apex Legends</value>
+  <data name="ComboBox3.Items2" xml:space="preserve">
+    <value>AP</value>
   </data>
   <data name="&gt;&gt;label9.ZOrder" xml:space="preserve">
     <value>1</value>
@@ -1515,18 +1527,17 @@
   <data name="label7.Size" type="System.Drawing.Size, System.Drawing">
     <value>395, 24</value>
   </data>
-  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>6, 13</value>
+  <data name="&gt;&gt;textBox2.Name" xml:space="preserve">
+    <value>textBox2</value>
   </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="$this.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
-    <value>Stretch</value>
+  <data name="ComboBox3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 21</value>
   </data>
   <data name="dateTimePicker1.Size" type="System.Drawing.Size, System.Drawing">
     <value>102, 20</value>
   </data>
-  <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>81, 244</value>
+  <data name="label2.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
   </data>
   <data name="label4.Location" type="System.Drawing.Point, System.Drawing">
     <value>35, 42</value>
@@ -1570,23 +1581,26 @@
   <data name="label8.Font" type="System.Drawing.Font, System.Drawing">
     <value>Arial Narrow, 14.25pt</value>
   </data>
+  <data name="&gt;&gt;textBox1.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
   <data name="&gt;&gt;label4.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
   <data name="&gt;&gt;label7.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="&gt;&gt;radioButton3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="button1.Font" type="System.Drawing.Font, System.Drawing">
     <value>Arial Narrow, 9.75pt, style=Bold</value>
   </data>
-  <data name="&gt;&gt;label9.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="comboBox2.Items7" xml:space="preserve">
+    <value>Batgirl</value>
   </data>
   <data name="panel1.Font" type="System.Drawing.Font, System.Drawing">
     <value>Arial Narrow, 9.75pt</value>
-  </data>
-  <data name="panel2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>537, 162</value>
   </data>
   <data name="&gt;&gt;radioButton2.Type" xml:space="preserve">
     <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -1612,8 +1626,8 @@
   <data name="&gt;&gt;ComboBox3.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="&gt;&gt;textBox2.Parent" xml:space="preserve">
-    <value>panel2</value>
+  <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
+    <value>5</value>
   </data>
   <data name="&gt;&gt;comboBox1.Parent" xml:space="preserve">
     <value>panel2</value>
@@ -1627,8 +1641,11 @@
   <data name="&gt;&gt;button3.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="radioButton2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>69, 20</value>
+  <data name="&gt;&gt;button1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="comboBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>123, 124</value>
   </data>
   <data name="comboBox1.TabIndex" type="System.Int32, mscorlib">
     <value>14</value>
@@ -1642,9 +1659,6 @@
   <data name="panel1.Size" type="System.Drawing.Size, System.Drawing">
     <value>390, 79</value>
   </data>
-  <data name="radioButton1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>73, 20</value>
-  </data>
   <data name="&gt;&gt;label8.Parent" xml:space="preserve">
     <value>panel2</value>
   </data>
@@ -1657,14 +1671,11 @@
   <data name="&gt;&gt;radioButton1.Name" xml:space="preserve">
     <value>radioButton1</value>
   </data>
-  <data name="panel2.TabIndex" type="System.Int32, mscorlib">
-    <value>13</value>
+  <data name="&gt;&gt;textBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="label9.Size" type="System.Drawing.Size, System.Drawing">
     <value>126, 23</value>
-  </data>
-  <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>96, 23</value>
   </data>
   <data name="&gt;&gt;label4.Name" xml:space="preserve">
     <value>label4</value>
@@ -1672,29 +1683,20 @@
   <data name="&gt;&gt;comboBox2.Type" xml:space="preserve">
     <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="label9.Text" xml:space="preserve">
-    <value>Número favorito: </value>
+  <data name="label2.Text" xml:space="preserve">
+    <value>Data de nascimento:</value>
   </data>
-  <data name="ComboBox3.Items18" xml:space="preserve">
-    <value>RN</value>
-  </data>
-  <data name="quantidadeCadastros.Size" type="System.Drawing.Size, System.Drawing">
-    <value>44, 20</value>
+  <data name="&gt;&gt;label3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="comboBox1.Items2" xml:space="preserve">
     <value>Free Fire</value>
   </data>
-  <data name="label5.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
   <data name="&gt;&gt;comboBox2.Name" xml:space="preserve">
     <value>comboBox2</value>
   </data>
-  <data name="&gt;&gt;comboBox2.Parent" xml:space="preserve">
-    <value>panel2</value>
-  </data>
-  <data name="&gt;&gt;label9.Parent" xml:space="preserve">
-    <value>$this</value>
+  <data name="label9.Text" xml:space="preserve">
+    <value>Número favorito: </value>
   </data>
   <data name="ComboBox3.Items12" xml:space="preserve">
     <value>PA</value>
@@ -1717,26 +1719,21 @@
   <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
     <value>3, 122</value>
   </data>
-  <data name="label2.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
+  <data name="ComboBox3.Items15" xml:space="preserve">
+    <value>PE</value>
   </data>
-  <data name="ComboBox3.Items2" xml:space="preserve">
-    <value>AP</value>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="$this.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
   </data>
-  <data name="label6.TabIndex" type="System.Int32, mscorlib">
-    <value>11</value>
+  <data name="ComboBox3.Items18" xml:space="preserve">
+    <value>RN</value>
   </data>
   <data name="ComboBox3.Items19" xml:space="preserve">
     <value>RS</value>
   </data>
-  <data name="comboBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>123, 124</value>
-  </data>
-  <data name="&gt;&gt;label3.Name" xml:space="preserve">
-    <value>label3</value>
-  </data>
-  <data name="&gt;&gt;dateTimePicker1.Parent" xml:space="preserve">
-    <value>panel2</value>
+  <data name="&gt;&gt;quantidadeCadastros.ZOrder" xml:space="preserve">
+    <value>0</value>
   </data>
   <data name="&gt;&gt;quantidadeCadastros.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -1747,14 +1744,17 @@
   <data name="&gt;&gt;label9.Name" xml:space="preserve">
     <value>label9</value>
   </data>
-  <data name="quantidadeCadastros.Location" type="System.Drawing.Point, System.Drawing">
-    <value>135, 363</value>
+  <data name="comboBox2.Items2" xml:space="preserve">
+    <value>The Boys</value>
+  </data>
+  <data name="&gt;&gt;button1.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
   <data name="radioButton1.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
-    <value>5</value>
+  <data name="comboBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>133, 21</value>
   </data>
   <data name="ComboBox3.Items14" xml:space="preserve">
     <value>PR</value>
@@ -1762,20 +1762,23 @@
   <data name="&gt;&gt;radioButton3.Name" xml:space="preserve">
     <value>radioButton3</value>
   </data>
-  <data name="comboBox2.Items7" xml:space="preserve">
-    <value>Batgirl</value>
+  <data name="&gt;&gt;textBox1.Name" xml:space="preserve">
+    <value>textBox1</value>
   </data>
   <data name="button1.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
   </data>
-  <data name="ComboBox3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>50, 21</value>
+  <data name="panel1.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="label8.Location" type="System.Drawing.Point, System.Drawing">
+    <value>363, 56</value>
   </data>
   <data name="&gt;&gt;panel2.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
-  <data name="&gt;&gt;comboBox1.ZOrder" xml:space="preserve">
-    <value>2</value>
+  <data name="panel2.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
   </data>
   <data name="label9.Font" type="System.Drawing.Font, System.Drawing">
     <value>Arial Narrow, 14.25pt</value>
@@ -1792,14 +1795,14 @@
   <data name="&gt;&gt;$this.Type" xml:space="preserve">
     <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;textBox1.ZOrder" xml:space="preserve">
-    <value>4</value>
+  <data name="&gt;&gt;label3.Name" xml:space="preserve">
+    <value>label3</value>
   </data>
   <data name="ComboBox3.Items10" xml:space="preserve">
     <value>MS</value>
   </data>
-  <data name="label2.Text" xml:space="preserve">
-    <value>Data de nascimento:</value>
+  <data name="radioButton2.Text" xml:space="preserve">
+    <value>Feminino</value>
   </data>
   <data name="&gt;&gt;panel2.Type" xml:space="preserve">
     <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -1822,20 +1825,20 @@
   <data name="&gt;&gt;label8.Name" xml:space="preserve">
     <value>label8</value>
   </data>
-  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>273, 1</value>
-  </data>
-  <data name="comboBox1.Items10" xml:space="preserve">
-    <value>Valorant</value>
+  <data name="label6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>102, 23</value>
   </data>
   <data name="&gt;&gt;label5.ZOrder" xml:space="preserve">
     <value>8</value>
   </data>
+  <data name="&gt;&gt;label7.Name" xml:space="preserve">
+    <value>label7</value>
+  </data>
   <data name="ComboBox3.Items4" xml:space="preserve">
     <value>BA</value>
   </data>
-  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>56, 23</value>
+  <data name="comboBox1.Items10" xml:space="preserve">
+    <value>Valorant</value>
   </data>
   <data name="comboBox1.Items11" xml:space="preserve">
     <value>Overwatch</value>
@@ -1846,11 +1849,11 @@
   <data name="comboBox1.Items13" xml:space="preserve">
     <value>Tom Clancy's Rainbow Six: Siege</value>
   </data>
-  <data name="label8.Location" type="System.Drawing.Point, System.Drawing">
-    <value>363, 56</value>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
   </data>
-  <data name="radioButton2.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
+  <data name="label5.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
   </data>
   <data name="comboBox2.Items" xml:space="preserve">
     <value>The flash</value>
@@ -1864,32 +1867,26 @@
   <data name="label8.TabIndex" type="System.Int32, mscorlib">
     <value>15</value>
   </data>
-  <data name="comboBox2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>123, 85</value>
-  </data>
-  <data name="&gt;&gt;label7.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
   <data name="comboBox2.Items9" xml:space="preserve">
     <value>The Umbrella Academy</value>
   </data>
   <data name="&gt;&gt;button3.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="label6.Size" type="System.Drawing.Size, System.Drawing">
-    <value>102, 23</value>
+  <data name="radioButton1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>73, 20</value>
   </data>
-  <data name="&gt;&gt;label3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Narrow, 14.25pt</value>
+  </data>
+  <data name="radioButton2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>69, 20</value>
   </data>
   <data name="comboBox2.Items5" xml:space="preserve">
     <value>Punho de Ferro</value>
   </data>
   <data name="&gt;&gt;radioButton3.Parent" xml:space="preserve">
     <value>panel1</value>
-  </data>
-  <data name="label7.Text" xml:space="preserve">
-    <value>Bem-Vindo ao Cadastro de Geeks</value>
   </data>
   <data name="radioButton1.Location" type="System.Drawing.Point, System.Drawing">
     <value>93, 38</value>
@@ -1900,20 +1897,17 @@
   <data name="&gt;&gt;label2.Name" xml:space="preserve">
     <value>label2</value>
   </data>
-  <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>36, 16</value>
-  </data>
   <data name="button3.TabIndex" type="System.Int32, mscorlib">
     <value>16</value>
   </data>
-  <data name="&gt;&gt;textBox1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="quantidadeCadastros.Size" type="System.Drawing.Size, System.Drawing">
+    <value>44, 20</value>
   </data>
   <data name="&gt;&gt;panel1.Name" xml:space="preserve">
     <value>panel1</value>
   </data>
-  <data name="&gt;&gt;dateTimePicker1.Name" xml:space="preserve">
-    <value>dateTimePicker1</value>
+  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>273, 1</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
     <value>561, 421</value>
@@ -1921,8 +1915,8 @@
   <data name="label5.Font" type="System.Drawing.Font, System.Drawing">
     <value>Arial Narrow, 14.25pt</value>
   </data>
-  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
+  <data name="comboBox1.Items1" xml:space="preserve">
+    <value>Minecraft</value>
   </data>
   <data name="comboBox1.Items6" xml:space="preserve">
     <value>Dota 2</value>
@@ -1930,11 +1924,11 @@
   <data name="&gt;&gt;label6.ZOrder" xml:space="preserve">
     <value>5</value>
   </data>
-  <data name="&gt;&gt;label7.Name" xml:space="preserve">
-    <value>label7</value>
-  </data>
-  <data name="&gt;&gt;panel2.Parent" xml:space="preserve">
+  <data name="&gt;&gt;label9.Parent" xml:space="preserve">
     <value>$this</value>
+  </data>
+  <data name="&gt;&gt;button3.Name" xml:space="preserve">
+    <value>button3</value>
   </data>
   <data name="button3.Size" type="System.Drawing.Size, System.Drawing">
     <value>70, 31</value>
@@ -1942,20 +1936,23 @@
   <data name="comboBox2.TabIndex" type="System.Int32, mscorlib">
     <value>12</value>
   </data>
-  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Arial Narrow, 14.25pt</value>
+  <data name="comboBox1.Items9" xml:space="preserve">
+    <value>Apex Legends</value>
   </data>
-  <data name="comboBox1.Items1" xml:space="preserve">
-    <value>Minecraft</value>
+  <data name="label7.Text" xml:space="preserve">
+    <value>Bem-Vindo ao Cadastro de Geeks</value>
   </data>
   <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
     <value>351, 336</value>
   </data>
-  <data name="ComboBox3.Items15" xml:space="preserve">
-    <value>PE</value>
+  <data name="&gt;&gt;dateTimePicker1.Parent" xml:space="preserve">
+    <value>panel2</value>
   </data>
   <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
     <value>11</value>
+  </data>
+  <data name="label7.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Algerian, 15.75pt, style=Bold, Italic</value>
   </data>
   <data name="&gt;&gt;panel2.Name" xml:space="preserve">
     <value>panel2</value>
@@ -1963,8 +1960,8 @@
   <data name="textBox2.Size" type="System.Drawing.Size, System.Drawing">
     <value>133, 20</value>
   </data>
-  <data name="ComboBox3.Items1" xml:space="preserve">
-    <value>AL</value>
+  <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 23</value>
   </data>
   <data name="&gt;&gt;radioButton3.ZOrder" xml:space="preserve">
     <value>1</value>
@@ -1975,20 +1972,23 @@
   <data name="radioButton3.Text" xml:space="preserve">
     <value>Prefiro não dizer</value>
   </data>
-  <data name="&gt;&gt;radioButton3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="comboBox2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>123, 85</value>
   </data>
-  <data name="label6.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Arial Narrow, 14.25pt</value>
+  <data name="&gt;&gt;label7.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
   <data name="radioButton2.Location" type="System.Drawing.Point, System.Drawing">
     <value>190, 38</value>
   </data>
-  <data name="label7.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Algerian, 15.75pt, style=Bold, Italic</value>
+  <data name="radioButton1.Text" xml:space="preserve">
+    <value>Masculino</value>
   </data>
-  <data name="&gt;&gt;button1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;textBox1.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>36, 16</value>
   </data>
   <data name="&gt;&gt;comboBox2.ZOrder" xml:space="preserve">
     <value>6</value>
@@ -1996,20 +1996,20 @@
   <data name="&gt;&gt;textBox2.ZOrder" xml:space="preserve">
     <value>9</value>
   </data>
-  <data name="&gt;&gt;button1.Parent" xml:space="preserve">
-    <value>$this</value>
+  <data name="&gt;&gt;textBox2.Parent" xml:space="preserve">
+    <value>panel2</value>
   </data>
   <data name="&gt;&gt;label4.Parent" xml:space="preserve">
     <value>panel1</value>
   </data>
-  <data name="&gt;&gt;textBox2.Name" xml:space="preserve">
-    <value>textBox2</value>
+  <data name="&gt;&gt;panel2.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
   <data name="comboBox1.Items4" xml:space="preserve">
     <value>Call of Duty: Modern Warfare</value>
   </data>
-  <data name="comboBox2.Items2" xml:space="preserve">
-    <value>The Boys</value>
+  <data name="&gt;&gt;label9.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="label6.Location" type="System.Drawing.Point, System.Drawing">
     <value>15, 83</value>
@@ -2017,14 +2017,14 @@
   <data name="textBox1.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
   </data>
-  <data name="label4.AutoSize" type="System.Boolean, mscorlib">
+  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
   <data name="label4.Text" xml:space="preserve">
     <value>Sexo:</value>
   </data>
-  <data name="radioButton1.Text" xml:space="preserve">
-    <value>Masculino</value>
+  <data name="&gt;&gt;button3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>

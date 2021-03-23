@@ -62,8 +62,10 @@ namespace Cadastro
             resources.ApplyResources(this.button1, "button1");
             this.button1.BackColor = System.Drawing.Color.RoyalBlue;
             this.button1.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.button1.DialogResult = System.Windows.Forms.DialogResult.Ignore;
             this.button1.ForeColor = System.Drawing.Color.White;
             this.button1.Name = "button1";
+            this.button1.UseCompatibleTextRendering = true;
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -299,7 +301,7 @@ namespace Cadastro
             // 
             resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.BackgroundImage = global::Cadastro.Properties.Resources.geek;
             this.Controls.Add(this.quantidadeCadastros);
             this.Controls.Add(this.label9);
@@ -309,7 +311,6 @@ namespace Cadastro
             this.Controls.Add(this.button1);
             this.Controls.Add(this.panel1);
             this.ForeColor = System.Drawing.Color.Black;
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.Name = "Form1";
             this.TransparencyKey = System.Drawing.Color.Black;
             this.Load += new System.EventHandler(this.Form1_Load);
