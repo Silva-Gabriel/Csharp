@@ -8,3 +8,6 @@ C:\Csharp\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
 C:\Csharp\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
 C:\Csharp\Cadastro\Cadastro\obj\Debug\Cadastro.exe
 C:\Csharp\Cadastro\Cadastro\obj\Debug\Cadastro.pdb
+C:\Csharp\Cadastro\Cadastro\bin\Debug\pt-BR\Cadastro.resources.dll
+C:\Csharp\Cadastro\Cadastro\obj\Debug\Cadastro.Form1.pt-BR.resources
+C:\Csharp\Cadastro\Cadastro\obj\Debug\pt-BR\Cadastro.resources.dll
