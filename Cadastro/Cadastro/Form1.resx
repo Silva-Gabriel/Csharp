@@ -230,9 +230,6 @@
   <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
     <value>56, 23</value>
   </data>
-  <data name="quantidadeCadastros.Location" type="System.Drawing.Point, System.Drawing">
-    <value>135, 363</value>
-  </data>
   <data name="&gt;&gt;label7.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
@@ -1437,14 +1434,14 @@
   <data name="button3.Location" type="System.Drawing.Point, System.Drawing">
     <value>479, 352</value>
   </data>
-  <data name="ComboBox3.Items6" xml:space="preserve">
-    <value>ES</value>
-  </data>
   <data name="&gt;&gt;comboBox1.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="panel2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>537, 162</value>
+  <data name="ComboBox3.Items12" xml:space="preserve">
+    <value>PA</value>
+  </data>
+  <data name="&gt;&gt;quantidadeCadastros.ZOrder" xml:space="preserve">
+    <value>0</value>
   </data>
   <data name="comboBox2.Items6" xml:space="preserve">
     <value>Luke Cage</value>
@@ -1538,6 +1535,9 @@
   </data>
   <data name="label2.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
+  </data>
+  <data name="label8.Text" xml:space="preserve">
+    <value>Estado:</value>
   </data>
   <data name="label4.Location" type="System.Drawing.Point, System.Drawing">
     <value>35, 42</value>
@@ -1641,12 +1641,6 @@
   <data name="&gt;&gt;button3.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;button1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="comboBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>123, 124</value>
-  </data>
   <data name="comboBox1.TabIndex" type="System.Int32, mscorlib">
     <value>14</value>
   </data>
@@ -1698,8 +1692,8 @@
   <data name="label9.Text" xml:space="preserve">
     <value>Número favorito: </value>
   </data>
-  <data name="ComboBox3.Items12" xml:space="preserve">
-    <value>PA</value>
+  <data name="&gt;&gt;panel2.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
   <data name="ComboBox3.Items13" xml:space="preserve">
     <value>PB</value>
@@ -1732,8 +1726,8 @@
   <data name="ComboBox3.Items19" xml:space="preserve">
     <value>RS</value>
   </data>
-  <data name="&gt;&gt;quantidadeCadastros.ZOrder" xml:space="preserve">
-    <value>0</value>
+  <data name="comboBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>123, 124</value>
   </data>
   <data name="&gt;&gt;quantidadeCadastros.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -1747,8 +1741,8 @@
   <data name="comboBox2.Items2" xml:space="preserve">
     <value>The Boys</value>
   </data>
-  <data name="&gt;&gt;button1.Parent" xml:space="preserve">
-    <value>$this</value>
+  <data name="quantidadeCadastros.Location" type="System.Drawing.Point, System.Drawing">
+    <value>135, 363</value>
   </data>
   <data name="radioButton1.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -1761,6 +1755,9 @@
   </data>
   <data name="&gt;&gt;radioButton3.Name" xml:space="preserve">
     <value>radioButton3</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>Sexo:</value>
   </data>
   <data name="&gt;&gt;textBox1.Name" xml:space="preserve">
     <value>textBox1</value>
@@ -1864,6 +1861,9 @@
   <data name="label4.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
   </data>
+  <data name="&gt;&gt;textBox2.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
   <data name="label8.TabIndex" type="System.Int32, mscorlib">
     <value>15</value>
   </data>
@@ -1891,8 +1891,8 @@
   <data name="radioButton1.Location" type="System.Drawing.Point, System.Drawing">
     <value>93, 38</value>
   </data>
-  <data name="label8.Text" xml:space="preserve">
-    <value>Estado:</value>
+  <data name="&gt;&gt;button1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;label2.Name" xml:space="preserve">
     <value>label2</value>
@@ -1945,8 +1945,8 @@
   <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
     <value>351, 336</value>
   </data>
-  <data name="&gt;&gt;dateTimePicker1.Parent" xml:space="preserve">
-    <value>panel2</value>
+  <data name="ComboBox3.Items6" xml:space="preserve">
+    <value>ES</value>
   </data>
   <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
     <value>11</value>
@@ -1996,14 +1996,14 @@
   <data name="&gt;&gt;textBox2.ZOrder" xml:space="preserve">
     <value>9</value>
   </data>
-  <data name="&gt;&gt;textBox2.Parent" xml:space="preserve">
-    <value>panel2</value>
+  <data name="&gt;&gt;button1.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
   <data name="&gt;&gt;label4.Parent" xml:space="preserve">
     <value>panel1</value>
   </data>
-  <data name="&gt;&gt;panel2.Parent" xml:space="preserve">
-    <value>$this</value>
+  <data name="&gt;&gt;dateTimePicker1.Parent" xml:space="preserve">
+    <value>panel2</value>
   </data>
   <data name="comboBox1.Items4" xml:space="preserve">
     <value>Call of Duty: Modern Warfare</value>
@@ -2020,8 +2020,8 @@
   <data name="label1.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="label4.Text" xml:space="preserve">
-    <value>Sexo:</value>
+  <data name="panel2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>537, 162</value>
   </data>
   <data name="&gt;&gt;button3.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
