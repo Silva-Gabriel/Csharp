@@ -1,0 +1,16 @@
+C:\Csharp\Introdução\Desafio_DIO\Desafios\DividindoXporY\obj\Debug\net5.0\DividindoXporY.csprojAssemblyReference.cache
+C:\Csharp\Introdução\Desafio_DIO\Desafios\DividindoXporY\obj\Debug\net5.0\DividindoXporY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\Introdução\Desafio_DIO\Desafios\DividindoXporY\obj\Debug\net5.0\DividindoXporY.AssemblyInfoInputs.cache
+C:\Csharp\Introdução\Desafio_DIO\Desafios\DividindoXporY\obj\Debug\net5.0\DividindoXporY.AssemblyInfo.cs
+C:\Csharp\Introdução\Desafio_DIO\Desafios\DividindoXporY\obj\Debug\net5.0\DividindoXporY.csproj.CoreCompileInputs.cache
+C:\Csharp\Introdução\Desafio_DIO\Desafios\DividindoXporY\bin\Debug\net5.0\DividindoXporY.exe
+C:\Csharp\Introdução\Desafio_DIO\Desafios\DividindoXporY\bin\Debug\net5.0\DividindoXporY.deps.json
+C:\Csharp\Introdução\Desafio_DIO\Desafios\DividindoXporY\bin\Debug\net5.0\DividindoXporY.runtimeconfig.json
+C:\Csharp\Introdução\Desafio_DIO\Desafios\DividindoXporY\bin\Debug\net5.0\DividindoXporY.runtimeconfig.dev.json
+C:\Csharp\Introdução\Desafio_DIO\Desafios\DividindoXporY\bin\Debug\net5.0\DividindoXporY.dll
+C:\Csharp\Introdução\Desafio_DIO\Desafios\DividindoXporY\bin\Debug\net5.0\ref\DividindoXporY.dll
+C:\Csharp\Introdução\Desafio_DIO\Desafios\DividindoXporY\bin\Debug\net5.0\DividindoXporY.pdb
+C:\Csharp\Introdução\Desafio_DIO\Desafios\DividindoXporY\obj\Debug\net5.0\DividindoXporY.dll
+C:\Csharp\Introdução\Desafio_DIO\Desafios\DividindoXporY\obj\Debug\net5.0\ref\DividindoXporY.dll
+C:\Csharp\Introdução\Desafio_DIO\Desafios\DividindoXporY\obj\Debug\net5.0\DividindoXporY.pdb
+C:\Csharp\Introdução\Desafio_DIO\Desafios\DividindoXporY\obj\Debug\net5.0\DividindoXporY.genruntimeconfig.cache
